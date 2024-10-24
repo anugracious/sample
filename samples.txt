@@ -12,6 +12,8 @@ git push origin main >>> pushing the file to the main branch in Github repositor
 
 git add filename
 
+git 
+
 
 
 
